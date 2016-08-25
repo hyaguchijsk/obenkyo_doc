@@ -1,0 +1,14 @@
+site_name: obenkyo_doc
+
+extra_javascript:
+- http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+markdown_extensions:
+- math
+
+pages:
+- Home: index.md
+- 同時座標変換行列: homogeneous_trans.md
+- 運動学: kinematics.md
+
+theme: readthedocs
