@@ -1,1 +1,1 @@
-python-markdown-mathpython-markdown-math
+python-markdown-math
