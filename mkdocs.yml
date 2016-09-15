@@ -8,6 +8,7 @@ markdown_extensions:
 
 pages:
 - Home: index.md
+- クォータニオン: quaternion.md
 - 同時座標変換行列: homogeneous_trans.md
 - 運動学: kinematics.md
 - 平均値シフト: meanshift.md
