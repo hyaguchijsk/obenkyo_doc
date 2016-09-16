@@ -14,5 +14,6 @@ pages:
 - 平均値シフト: meanshift.md
 - カルマンフィルタ: kalmanfilter.md
 - パーティクルフィルタ: particlefilter.md
+- 画像特徴量: imagefeature.md
 
 theme: readthedocs
