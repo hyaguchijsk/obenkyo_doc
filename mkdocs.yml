@@ -12,8 +12,10 @@ pages:
 - 同時座標変換行列: homogeneous_trans.md
 - 運動学: kinematics.md
 - 平均値シフト: meanshift.md
+- 混合ガウスモデル: gmm.md
 - カルマンフィルタ: kalmanfilter.md
 - パーティクルフィルタ: particlefilter.md
 - 画像特徴量: imagefeature.md
+
 
 theme: readthedocs
