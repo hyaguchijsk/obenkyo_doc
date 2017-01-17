@@ -16,6 +16,6 @@ pages:
 - カルマンフィルタ: kalmanfilter.md
 - パーティクルフィルタ: particlefilter.md
 - 画像特徴量: imagefeature.md
-
+- 測地ドーム: gdome.md
 
 theme: readthedocs
